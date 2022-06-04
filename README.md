@@ -6,7 +6,7 @@ My website portfolio
 ![alt text](https://github.com/shubhamgodha/shubhamgodha.github.io/blob/main/Portfolio.PNG)
 
 ### Mobile View
-<!-- ![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG) -->
+![alt text](https://github.com/shubhamgodha/shubhamgodha.github.io/blob/main/Portfolio_mobile.PNG)
 
 ## Author
 * Shubham Sunil Godha
